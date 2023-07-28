@@ -1,0 +1,9 @@
+.section{
+    display: flex;
+    justify-content: space-between;
+    background-image: url("../../public/bimage.jpeg");
+    background-size: 65%;
+    background-repeat: no-repeat;
+    height: 400px;
+    
+}
